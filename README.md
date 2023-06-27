@@ -2,7 +2,7 @@
 - 👀 I’m interested in you
 - 🌱 I’m currently learning Machine learning related
 - 💞️ I’m looking to collaborate on everyone who have same interest
-- 📫 How to reach me on ...
+- 📫 Reach me on slack...
 
 <!---
 yincheang/yincheang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
