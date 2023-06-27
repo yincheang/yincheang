@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yincheang
 - 👀 I’m interested in you
-- 🌱 I’m currently learning Machine learning related
+- 🌱 I’m currently learning Machine learning and systems
 - 💞️ I’m looking to collaborate on everyone who have same interest
 - 📫 Reach me on slack...
 
